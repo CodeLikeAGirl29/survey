@@ -13,6 +13,12 @@ form {
   padding: 1em 1em;
 }
 
+img {
+width: 100%;
+height: auto;
+display: block;
+}
+
 .formbold-main-wrapper {
   display: flex;
   align-items: center;
